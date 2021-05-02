@@ -1,0 +1,46 @@
+<!Doctype HTML>
+
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+	<title>Teste</title>
+
+<style type="text/css">
+	
+body {
+	background-color: black;
+}
+
+</style>
+
+<!-- ===== Arrow Function ===== -->
+
+<script type="text/javascript">
+
+	//Criando o Objeto ==> Jogador <==
+
+var jogador = {
+	nome:"messi",
+	habilidades:["chutar", "driblar","correr", "fazer gols"],
+
+	escreverHabilidades: function(skill) {
+
+		var _this = this;
+
+		this.habilidades.forEach(function(skill) {
+			console.log(_this.nome + " É craque em " + skill);
+		});	
+	}
+}
+
+jogador.escreverHabilidades();
+
+
+</script>
+
+</head>
+<body>
+</body>
+</html>
+

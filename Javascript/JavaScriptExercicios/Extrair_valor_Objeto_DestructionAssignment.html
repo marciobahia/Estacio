@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<meta charset="utf-8">
+
+<head>
+	<title>Teste</title>
+
+<style type="text/css">
+	
+body {
+	background-color: black;
+}
+
+</style>
+
+<!-- ===== Extrair Valor de Um Objeto usando Destructuring Assignment ===== -->
+
+<script type="text/javascript">
+
+
+/* ===== Forma Normal =====
+
+var objeto = { tipo:"Caneta",cor:"zul",marca:"Bic",preco:2}
+
+console.log(objeto.tipo);
+console.log(objeto.preco);
+*/
+
+//===== Destructuring Assignment =====
+
+// atribui um Objeto a outro e chama os respectivos no console.log
+
+var {tipo,cor,tampas} = { 
+
+	tipo:"Caneta",cor:"zul",marca:"Bic",preco:2,
+	tampas:["redenda","quadrada"]
+}
+
+
+console.log(tipo);
+console.log(cor);
+console.log(tampas[1]);
+
+
+</script>
+
+</head>
+<body>
+</body>
+</html>
+

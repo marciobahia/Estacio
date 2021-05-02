@@ -1,0 +1,56 @@
+<!Doctype HTML>
+
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+	<title>Pegar a Hora Atual</title>
+<style type="text/css">
+	
+body {
+	background-color: black;
+}
+
+
+</style>
+<script type="text/javascript">
+
+//Criei um Array para indicar o mês por String	
+var meses = ["Janeiro", "Feverreiro", "Março", "Abril", "Maio", "Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"];
+
+
+//Array para concatenar os dias da semana em String 
+var semana = ["Domingo", "Segunda-feira","Terça-feira","Quarta-feira","Quinta-feira","Sexta-feira","Sábado"];
+
+// Vai retornar o Dia de Hoje
+var agora = new Date();
+console.log("Hoje é Dia: " + agora.getDate() + " de " + meses[agora.getMonth()] + " de " + agora.getFullYear());
+
+
+//Função para acrescentar 2 Digitos na Hora
+function setDoisDigitos(tempo) {
+	if (tempo < 10) {
+return "0" + tempo;
+	}
+	else {
+		return tempo;
+	}
+}
+
+//Retornando a Hora
+var time = new Date();
+console.log("Agora são: " + time.getHours() + ":" + time.getMinutes() + ":" + time.getSeconds());
+
+
+//Vai retornar que dia da semana eu nasci.
+var aniversario = new Date(1976,2,13);
+console.log("Você nasceu em: " + aniversario.getDate() + " de " + meses[aniversario.getMonth()] + " de " + aniversario.getYear() + " em um " + semana[aniversario.getDay()]);
+
+
+</script>
+
+</head>
+<body>
+</body>
+</html>
+
