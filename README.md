@@ -33,9 +33,7 @@ Technologies Contained in The Curriculum
 - [PostgreSQL](https://www.postgresql.org)
 
 
-## 💻 Getting started
-
-### Subjects
+## 💻 SUBJECTS
 
 FUNDAMENTALS OF COMPUTER NETWORKS
 
