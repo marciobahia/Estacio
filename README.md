@@ -17,6 +17,12 @@ A administração de banco de dados e a governança em TI se juntam ao planejame
 
 
 
+
+
+
+
+
+
  <div align="center" marginTop = "300px">
   <img src="https://github.com/marciobahia/Estacio/blob/master/Captura%20de%20Tela%202021-06-24%20às%2016.13.52.png">
 </div>
