@@ -16,10 +16,10 @@ Here are the exercises for the Undergraduate Course in Analysis and Systems Deve
 
 ## Tecnologies
 
-This project was developed using cutting edge front-end technologies.
+Technologies Contained in The Curriculum
 
 
-- [ReactJS](https://reactjs.org/)
+- [C](blank/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Firebase Authentication](https://firebase.google.com/products/auth)
 - [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
