@@ -14,7 +14,7 @@ Here are the exercises for the Undergraduate Course in Analysis and Systems Deve
 </h4>
 
 
-![Let Me Ask preview](https://github.com/marciobahia/Letmeask/blob/master/src/assets/images/app-preview.png)
+![Let Me Ask preview](https://github.com/marciobahia/Estacio/blob/master/file.png)
 <h4 align="center">
   
  
