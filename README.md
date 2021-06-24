@@ -33,7 +33,7 @@ Technologies Contained in The Curriculum
 
 ## 💻 Getting started
 
-### Requirements
+### Subjects
 
 - You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
 
