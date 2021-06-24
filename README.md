@@ -14,7 +14,7 @@ The course works with a focus on training professionals who meet the new demands
 A administração de banco de dados e a governança em TI se juntam ao planejamento e implantação de serviços relacionados à engenharia de software, em disciplinas que são estudadas para o melhor desempenho do profissional.
 </h4>
 
- <div align="center"; marginTop = "300px">
+ <div align="center"$ marginTop = "300px">
   <img src="https://github.com/marciobahia/Estacio/blob/master/Captura%20de%20Tela%202021-06-24%20às%2016.13.52.png">
 </div>
 
