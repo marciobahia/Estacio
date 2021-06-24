@@ -31,7 +31,7 @@ Technologies Contained in The Curriculum
 - [Linux](https://www.linux.org)
 - [PHP](https://www.php.net)
 - [Java](https://www.java.com)
-- [Python](https://www.python.org)<img src="https://code-maven.com/img/python.png" height="35px" /> 
+- [Python](https://www.python.org)
 - [UML](https://www.uml.org)
 - [PostgreSQL](https://www.postgresql.org)
 
