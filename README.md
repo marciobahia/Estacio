@@ -12,11 +12,6 @@
 
 Here are the exercises for the Undergraduate Course in Analysis and Systems Development at Universidade Estácio de Sá.
 </h4>
-
-
-![Let Me Ask preview](https://github.com/marciobahia/Estacio/blob/master/file.png)
-<h4 align="center">
-  
  
 
 ## Tecnologies
