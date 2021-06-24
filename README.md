@@ -14,7 +14,10 @@ The Systems Analysis and Development course teaches how to design, document, spe
 The course works with a focus on training professionals who meet the new demands of the labor market.
 A administração de banco de dados e a governança em TI se juntam ao planejamento e implantação de serviços relacionados à engenharia de software, em disciplinas que são estudadas para o melhor desempenho do profissional.
 </h4>
- 
+
+ <div align="center">
+  <img src="https://github.com/marciobahia/Estacio/blob/master/EstacioBlue.jpeg" width="300">
+</div>
 
 ## Tecnologies
 
