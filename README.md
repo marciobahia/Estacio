@@ -1,6 +1,6 @@
 # Estacio
 <div align="center">
-  <img src="https://github.com/marciobahia/Letmeask/blob/master/src/assets/images/logo.svg">
+  <img src="https://github.com/marciobahia/Estacio/blob/master/file.png" width="200">
 </div>
 
 ## Let Me Ask
