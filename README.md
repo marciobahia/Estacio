@@ -10,7 +10,7 @@
 [![Stars](https://img.shields.io/github/stars/marciobahia/letmeask?color=835AFD&style=flat-square)](https://github.com/marciobahia/letmeask/stargazers)
 
 
-Here are the exercises for the Undergraduate Course in Analysis and Systems Development at Universidade Estácio de Sá.
+The Systems Analysis and Development course teaches how to design, document, specify, test, implement and take care of the maintenance of computer systems and software
 </h4>
  
 
