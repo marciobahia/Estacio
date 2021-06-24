@@ -10,7 +10,7 @@
 [![Stars](https://img.shields.io/github/stars/marciobahia/letmeask?color=835AFD&style=flat-square)](https://github.com/marciobahia/letmeask/stargazers)
 
 
-Let Me Ask is a platform built to let you gather questions from your viewers during your stream and let them vote for which are the best questions for you to answer.
+Here are the exercises for the Undergraduate Course in Analysis and Systems Development at Universidade Estácio de Sá.
 </h4>
 
 
