@@ -20,7 +20,7 @@ Technologies Contained in The Curriculum
 
 
 - [C](blank/)
-- [Typescript](https://www.typescriptlang.org/)
+- [Web Service in Linux](https://www.linux.org)
 - [Firebase Authentication](https://firebase.google.com/products/auth)
 - [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
 
