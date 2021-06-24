@@ -20,14 +20,16 @@ Technologies Contained in The Curriculum
 
 
 - [C](blank/)
-- [Cloud Computing and Web Service on Linux](https://www.linux.org)
-- [Firebase Authentication](https://firebase.google.com/products/auth)
-- [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
 - [HTML5](https://www.w3.org)
 - [CSS3](https://www.w3.org)
 - [JavaScript](https://www.javascript.com)
-- [C](blank/)
-- [C](blank/)
+- [Linux](https://www.linux.org)
+- [PHP](https://www.php.net)
+- [Java](https://www.java.com)
+- [Python](https://www.python.org)
+- [UML](https://www.uml.org)
+- [PostgreSQL](https://www.postgresql.org)
+
 
 ## 💻 Getting started
 
