@@ -1,4 +1,4 @@
-# FAculdade Estacio de Sá
+# Faculdade Estacio de Sá
 <div align="center">
   <img src="https://github.com/marciobahia/Estacio/blob/master/EstacioBlue.jpeg" width="300">
 </div>
