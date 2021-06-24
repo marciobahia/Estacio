@@ -10,7 +10,9 @@
 [![Stars](https://img.shields.io/github/stars/marciobahia/letmeask?color=835AFD&style=flat-square)](https://github.com/marciobahia/letmeask/stargazers)
 
 
-The Systems Analysis and Development course teaches how to design, document, specify, test, implement and take care of the maintenance of computer systems and software
+The Systems Analysis and Development course teaches how to design, document, specify, test, implement and take care of the maintenance of computer systems and software.
+The course works with a focus on training professionals who meet the new demands of the labor market.
+A administração de banco de dados e a governança em TI se juntam ao planejamento e implantação de serviços relacionados à engenharia de software, em disciplinas que são estudadas para o melhor desempenho do profissional.
 </h4>
  
 
@@ -34,6 +36,46 @@ Technologies Contained in The Curriculum
 ## 💻 Getting started
 
 ### Subjects
+
+FUNDAMENTALS OF COMPUTER NETWORKS
+INTRODUCTION TO STRUCTURED PROGRAMMING IN C
+INTRODUCTION TO INFORMATION SECURITY
+COMPUTER ORGANIZATION AND ARCHITECTURE
+CAREER PLANNING AND PROFESSIONAL SUCCESS
+DATABASE
+CLOUD COMPUTING AND WEB SERVICES IN LINUX
+DEVELOPMENT WEB IN HTML5, CSS, JAVASCRIPT AND PHP
+PORTUGUESE LANGUAGE
+PARADIGMS OF LING. PYTHON PROGRAMMING
+COMPUTATIONAL THINKING
+DIGITAL BUSINESS DESIGN AND FORMATTING
+RAPID DEVELOPMENT OF PYTHON APPLICATIONS
+SOFTWARE ENGINEERING
+DATA STRUCTURE IN C
+DIGITAL MARKETING AND SOCIAL MEDIA
+CLIENT SERVER PROGRAMMING
+WEB DESIGN
+COMPLEXITY OF ALGORITHMS
+ENVIRONMENTAL MANAGEMENT AND LEGISLATION
+HISTORY OF INDIGENOUS PEOPLES AND Afro-descendants
+MATHEMATICS AND LOGIC
+SYSTEM MODELING WITH UML
+OBJECT ORIENTED PROGRAMMING IN JAVA
+DISTRIBUTED SYSTEMS AND PARALLEL COMPUTING
+CYBER LAW
+ELECTRONIC BUSINESS
+JAVA SOFTWARE DESIGN STANDARDS
+PROGRAMMING FOR MOBILE DEVICES IN ANDROID
+BIG DATA TOPICS IN PYTHON
+CLOUD, IOT AND INDUSTRY 4.0 TOPICS IN PYTHON
+TOPICS IN LIBRAS: DEAFNESS AND INCLUSION
+
+
+
+
+
+
+
 
 - You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
 
