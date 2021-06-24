@@ -105,53 +105,12 @@ TOPICS IN LIBRAS: DEAFNESS AND INCLUSION
 
 
 
-
-
-
-
-- You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
-
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/marciobahia/letmeask.git && cd letmeask
+$ git clone https://github.com/marciobahia/Estacio.git && cd estacio
 ```
 
-**Follow the steps below**
-
-```bash
-# Install the dependencies
-$ yarn
-  
-  **Dependencies**
-  
-    @testing-library/jest-dom": "^5.11.4
-    @testing-library/react": "^11.1.0
-    @testing-library/user-event": "^12.1.10
-    @types/jest": "^26.0.15
-    @types/node": "^12.0.0
-    @types/react": "^17.0.0
-    @types/react-dom": "^17.0.0
-    firebase": "^8.6.8
-    node-sass": "5.0.0
-    react": "^17.0.2
-    react-dom": "^17.0.2
-    react-router-dom": "^5.2.0
-    react-scripts": "4.0.3
-    typescript": "^4.1.2
-    web-vitals": "^1.0.1
-
-# Remember to configure your .env.local following the .env.exemple
-
-**Run the web server**
-$ yarn start
-```
-
-The app will be available for access on your browser at `http://localhost:3000`
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 [![Instagram Badge](https://img.shields.io/badge/-@marciobahia-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/marciobahia/)](https://www.instagram.com/bahiainspetor/) 
