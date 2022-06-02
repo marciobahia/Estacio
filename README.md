@@ -1,7 +1,5 @@
 # Faculdade Estacio de Sá
-<div align="center">
-  <img src="https://github.com/marciobahia/Estacio/blob/master/EstacioBlue.jpeg" width="300">
-</div>
+![file](https://user-images.githubusercontent.com/42573399/171648334-6dfd7556-bba8-4783-9978-5a505bd4f8bd.png)
 
 ## Analysis and Systems Development
 
