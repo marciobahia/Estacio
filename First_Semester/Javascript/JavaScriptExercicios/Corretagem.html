@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Agência especializada em Marketing Digital, Criação de Sites e Aplicativos Mobile.">
+    <meta name="keywords" content="Agencia Digital, Marketing, Sites, Aplicativos">
+    <meta name="robots" content="index,folow">
+    <meta name="author" content="Márcio Sella Bahia">
+
+
+<head>
+
+	<title>Class</title>
+
+
+<!-- ===== Estilização ===== -->
+
+<style type="text/css">
+
+ body {
+	background-color: black;
+	font-color: darkorange;
+	color:darkorange;
+} 
+
+</style>
+
+<!-- ===== Corretagem ===== -->
+
+<script type="text/javascript">
+
+// Criando a Classe Produto
+
+class Produto {
+
+	constructor (nome,precoCusto,precoVenda,lucro) {
+		this.nome = nome;
+		this.precoCusto = precoCusto;
+		this.precoVenda = precoVenda;
+
+		// Variável para saber o Lucro
+		this.lucro =(precoVenda - precoCusto);
+		
+	}
+
+//Criando Função para escrever os dados do Produto	
+
+	escreverDados () {
+		console.log(`Produto: ${this.nome} \n Custo: R$ ${this.precoCusto} \n Venda: R$ ${this.precoVenda}\n Lucro: R$ ${this.lucro}.`)
+	}
+}
+
+//Criando a Classe - Cliente
+
+class Cliente {
+
+	constructor (codigo,nome,) {
+		this.codigo = codigo;
+		this.nome = nome;
+	}
+//Criando função par escrever os dados do Cliente
+
+escreverCliente () {
+
+	console.log(`Cliente: ${this.nome}\n Código: ${this.codigo}`)
+
+	}
+}
+
+//Criando os Objetos Clientes
+
+var marcio = new Cliente(1,"Márcio Bahia");
+var ana = new Cliente(2, "Ana Lucia");
+
+// Cliando Objeto Produto
+
+var iphone = new Produto("Iphone 6 Plus\n",1500,2000);
+var AppleWatch = new Produto("AppleWatch",500,1000)
+var Macbook = new Produto("Macbook Pro\n",2000,4500);
+var SonyVaio = new Produto("SonyVaio",500,1200);
+var jblFlip4 = new Produto("JBL Flip 4",250,300);
+var cordaoPrata = new Produto("Cordão de Prata",100,300);
+
+
+//Chamando das Funções
+
+marcio.escreverCliente();
+ana.escreverCliente();
+iphone.escreverDados();
+Macbook.escreverDados();
+AppleWatch.escreverDados();
+jblFlip4.escreverDados();
+cordaoPrata.escreverDados();
+
+	</script>
+
+</head>
+
+<body>
+
+<div>
+	
+<p>	
+	Criando Classes!
+</p>
+
+
+</div>
+
+</body>
+
+
+</html>

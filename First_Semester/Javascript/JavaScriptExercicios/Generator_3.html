@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<meta charset="utf-8">
+
+<head>
+	<title>Generator</title>
+
+<style type="text/css">
+	
+body {
+	background-color: black;
+}
+
+</style>
+
+<!-- ===== Generator com SetInterval===== -->
+
+<script type="text/javascript">
+
+
+function* baterNoLiquidificador (ing) {
+
+	for ( var i=0;i<ing.length;i++) {
+
+		yield ing[i];
+	}
+}
+
+var ingredientes = baterNoLiquidificador(["leite","Banana","Nescau","Aveia"]);
+
+var fazerVitamina = setInterval (function() {
+
+	var vitamina = ingredientes.next();
+
+	if (vitamina.done ) {
+		clearInterval(fazerVitamina);
+		console.log("Sua Vitamina está Pronta");
+		
+		}
+
+	else {
+
+		console.log(vitamina.value);
+	}
+
+},1000)
+
+
+
+
+		</script>
+
+</head>
+<body>
+</body>
+</html>
+

@@ -1,0 +1,42 @@
+<!Doctype HTML>
+
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+	<title>Teste</title>
+<style type="text/css">
+	
+body {
+	background-color: black;
+}
+
+
+</style>
+<script type="text/javascript">
+
+var agora = new Date();
+var idade;
+var Ano = prompt("Que Ano Você Nasceu?");
+var mes = prompt("Que mês?");
+var dia = prompt("Que Dia?");
+
+var idade = agora.getFullYear() - Ano;
+
+console.log(idade);
+
+function calIdade(idade){
+	if (agora.getMonth() < mes) {
+
+		return idade--;
+
+	}
+}
+
+</script>
+
+</head>
+<body>
+</body>
+</html>
+

@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<meta charset="utf-8">
+
+<head>
+	<title>Ho,oponopono</title>
+
+<style type="text/css">
+	
+body {
+	background-color: black;
+}
+
+</style>
+
+<!-- ===== Generator com SetInterval===== -->
+
+<script type="text/javascript">
+
+
+function* hoponopono (opo) {
+
+	for ( var i=0;i<opo.length;i++) {
+
+		yield opo[i];
+	}
+}
+
+var mantra = hoponopono(["\nDINHEIRO, ABENÇOADO!","\nSINTO MUITO!","\nPOR FAVOR!","\nME PERDOA!","\nSOU GRATO!","\nEU TE AMO!"]);
+
+var fazerMantra = setInterval (function() {
+
+	var japamala = mantra.next();
+
+	if (japamala.done ) {
+		clearInterval(fazerMantra);
+		console.log("\nHO´OPONOPONO - EU ACREDITO!");
+
+				}
+
+	else {
+
+		console.log(japamala.value);
+	}
+
+},1000)
+
+		</script>
+
+</head>
+<body>
+</body>
+</html>
+
